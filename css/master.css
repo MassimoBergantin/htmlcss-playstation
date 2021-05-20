@@ -1,0 +1,12 @@
+.container-fluid {
+
+}
+.black-sony-bar {
+    background-color: black;
+    display: flex;
+}
+.black-sony-bar img {
+    width: 70px;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
