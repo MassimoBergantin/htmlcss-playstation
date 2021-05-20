@@ -4,9 +4,17 @@
 .black-sony-bar {
     background-color: black;
     display: flex;
+    justify-content: flex-end;
 }
 .black-sony-bar img {
     width: 70px;
-    justify-content: flex-end;
-    align-self: flex-end;
+}
+.disabled:hover {
+    cursor: pointer;
+}
+.navbar-nav a {
+    color: black;
+}
+.break-the-c img {
+    width: 100%;
 }
