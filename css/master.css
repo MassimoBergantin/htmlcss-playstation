@@ -26,4 +26,22 @@
 }
 .returnal-box {
     padding-top: 500px;
+    padding-bottom: 50px;
+}
+.mini-box-game {
+    overflow: hidden;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 5px;
+}
+.mini-box-game img {
+    width: 100%;
+}
+.mini-box-game:hover {
+    border: 2px solid blue;
+}
+.mini-box-game-inside {
+    overflow: hidden;
+    border: 2px solid white;
+    border-radius: 20px;
 }
