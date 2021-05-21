@@ -34,7 +34,7 @@
     border-radius: 20px;
     padding: 5px;
 }
-.mini-box-game img, .mini-box-accessories img {
+.mini-box-game img, .mini-box-accessories img, .mini-box-tony-crash  img{
     width: 100%;
 }
 .mini-box-game:hover {
@@ -71,4 +71,7 @@
 .ittakestwo-box {
     padding-top: 500px;
     padding-bottom: 50px;
+}
+.mini-box-tony-crash img {
+    border-radius: 25px;
 }
