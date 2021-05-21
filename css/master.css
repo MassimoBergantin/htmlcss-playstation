@@ -17,7 +17,7 @@
 }
   
 .jumbo-bg {
-    background-image: url(../img/jumbo-bg.png);
+    background-image: url(../img/Returnal-bg.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -55,7 +55,7 @@
     overflow: hidden;
     border-bottom: 3px solid white;
 }
-.mini-box-accessories:hover {
+.mini-box-accessories-inside:hover {
     border-bottom: 3px solid blue;
     opacity: 1;
 }
