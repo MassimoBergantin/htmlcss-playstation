@@ -48,8 +48,8 @@
 /* ACCESSORI */
 .mini-box-accessories {
     overflow: hidden;
-    border: 2px solid white;
     padding: 10px;
+    opacity: 0.7;
 }
 .mini-box-accessories-inside {
     overflow: hidden;
@@ -57,4 +57,18 @@
 }
 .mini-box-accessories:hover {
     border-bottom: 3px solid blue;
+    opacity: 1;
+}
+/* IT TAKES TWO */
+.ittakestwo-content {
+    color: white;
+}
+.jumbo-bg-ittskestwo {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.ittakestwo-box {
+    padding-top: 500px;
+    padding-bottom: 50px;
 }
