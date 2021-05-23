@@ -78,10 +78,28 @@
 /* PS4 SECTION */
 .PS4-content img {
     width: 100%;
-
 }
 /* PS PLUS */
 .PS-plus img {
     width: 70%;
-    
 }
+.soulstorm img{
+    width: 95%;
+}
+.PS-discount img{
+    width: 100%;
+}
+/* PS NOW */
+.PS-now img {
+    width: 100%;
+}
+.social img {
+    width: 100%;
+}
+.social-nested {
+    padding: 10px;
+}
+.PS-discount-nested {
+    padding: 10px;
+}
+/* FOOTER */
