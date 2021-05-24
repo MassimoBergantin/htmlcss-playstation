@@ -49,9 +49,9 @@
 .mini-box-accessories {
     overflow: hidden;
     padding: 10px;
-    opacity: 0.7;
 }
 .mini-box-accessories-inside {
+    opacity: 0.5;
     overflow: hidden;
     border-bottom: 3px solid white;
 }
